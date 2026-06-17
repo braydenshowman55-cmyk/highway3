@@ -9,6 +9,7 @@ namespace SpriteKind {
 info.onLifeZero(function () {
     game.gameOver(false)
 })
+music.play(music.stringPlayable("D E F D E D F E ", 120), music.PlaybackMode.InBackground)
 info.setLife(3)
 tiles.setCurrentTilemap(tilemap`level1`)
 let mySprite = sprites.create(assets.image`player`, SpriteKind.Player)
