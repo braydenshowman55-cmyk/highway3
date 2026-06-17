@@ -4,6 +4,11 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "Road"
     },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8P///w8AAAAvIiIi8gAA8CIiIiIiAAD///////8A8CIiIiIiIgAvIv//IiIiAC/yGZkvIiIAL/KRmS8iIgAv8pmZLyIiAC/ymZkvIiIAL/KZmS8iIgDw8pmZLyIiAAD/mRn///8AAPCZkQ8AAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "player"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
